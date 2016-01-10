@@ -4,7 +4,10 @@ Mimeo23 tinha um fórum, mas eu esqueci de atualizar e perdi a senha. Descobri q
 
 Também tinha um domínio, este pretendo recuperar.
 
-## Em caso de emergência [<º)))<](https://www.rebelmouse.com/discordianismo/)
+## Em caso de emergência
+
+1. [<º)))<](https://www.rebelmouse.com/discordianismo/)
+2. [ortodoxo](http://fnord.forumotion.com/forum)
 
 ## TODO
 * index temático
