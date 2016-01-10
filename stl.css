@@ -1,5 +1,15 @@
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-} 
+@import url(https://fonts.googleapis.com/css?family=Schoolbell);
+#mimeo23{
+    color: DarkBlue;
+}
+
+a:link,a:visited  {
+    text-decoration: none;
+    color: black!important;
+}
+a:hover,a:active {
+    text-decoration: underline;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Schoolbell', cursive;
+}
