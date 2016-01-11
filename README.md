@@ -10,7 +10,7 @@ Também tinha um domínio, este pretendo recuperar.
 2. [ortodoxo](http://fnord.forumotion.com/forum)
 
 ## TODO
-* backup forum
-* index temático
+* ~~backup forum~~ :(
+* index temático OK
 * advento erisiano
 * discordia brasilis 3
