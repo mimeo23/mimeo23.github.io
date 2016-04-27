@@ -12,5 +12,5 @@ Também tinha um domínio, este pretendo recuperar.
 ## TODO
 * ~~backup forum~~ :(
 * index temático OK
-* advento erisiano
-* discordia brasilis 3
+* advento erisiano OK
+* entrevista papa jerry
